@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 import workJSON from '@realsee/open-works/virtual/81RojBlJQdVTglNNMr/work.json';
 import { Five } from '@realsee/five';
 import './style.css';
